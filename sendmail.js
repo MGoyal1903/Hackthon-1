@@ -3,21 +3,21 @@
 // var transporter = nodemailer.createTransport({
 //     service: 'gmail',
 //     auth: {
-//       user: 'mgoyal0412@gmail.com',
-//       pass: 'hydrogen1903'
+//       user: '********************',
+//       pass: '********************'
 //     }
 
 //   });
 //   var mailOptions = {
-//     from: 'mgoyal0412@gmail.com',
-//     to: 'mayankgoyal19032000@gmail.com',
+//     from: '******************',
+//     to: '*******************************',
 //     subject: 'Sending Email using Node.js',
 //     text: 'That was easy!',
 //     attachments:
 //       [
 //         {
 //           filename: 'centers.json',
-//           path: 'C://Users//MGOYA//Desktop//Hackthon-1//centers.json',
+//           path: '*********************',
 //         }
 //       ]
 
@@ -31,9 +31,9 @@
 //     }
 //   });
 
-let user = 'mgoyal0412@gmail.com';
-let pass = 'hydrogen1903';
-let person = 'mayankgoyal19032000@gmail.com';
+let user = '************';
+let pass = '************';
+let person = '**********';
   module.exports.user=user;
   module.exports.pass=pass;
   module.exports.person=person;
