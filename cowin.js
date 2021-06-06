@@ -48,7 +48,7 @@ async function register() {
       [
         {
           filename: 'centers.json',
-          path: 'C://Users//MGOYA//Desktop//Hackthon-1//centers.json',
+          path: '*************************',
         }
       ]
 
